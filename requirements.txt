@@ -10,3 +10,4 @@ requests
 seaborn
 matplotlib
 python-multipart
+altair

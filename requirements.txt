@@ -10,4 +10,4 @@ requests
 seaborn
 matplotlib
 python-multipart
-altair
+altair==4.2.2

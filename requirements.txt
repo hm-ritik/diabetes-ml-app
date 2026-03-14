@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+catboost
+imbalanced-learn
+fastapi
+uvicorn
+streamlit
+requests
+seaborn
+matplotlib
+python-multipart

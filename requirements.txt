@@ -11,3 +11,4 @@ seaborn
 matplotlib
 python-multipart
 altair==4.2.2
+pillow==10.3.0

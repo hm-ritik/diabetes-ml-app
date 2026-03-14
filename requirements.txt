@@ -5,7 +5,7 @@ catboost
 imbalanced-learn
 fastapi
 uvicorn
-streamlit
+streamlit==1.33.0
 requests
 seaborn
 matplotlib

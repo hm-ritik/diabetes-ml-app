@@ -58,7 +58,7 @@ if st.button("🔍 Generate Prediction"):
         }
 
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://diabetes-ml-app-7c8p.onrender.com/predict",
             json=data
         )
 

@@ -58,7 +58,7 @@ if st.button("🔍 Generate Prediction"):
         }
 
         response = requests.post(
-            "https://diabetes-ml-app-7c8p.onrender.com/predict",
+            "https://diabetes-ml-app-1.onrender.com/predict",
             json=data
         )
 
